@@ -8,6 +8,7 @@
 .box{
     background-color: green;
     margin:10px;
+    border:1px solid black;
 }
 #header{
     grid-column-start:1;
